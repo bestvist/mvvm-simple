@@ -14,7 +14,6 @@ class Observer {
             configurable: false,
             get: () => {
                 if (Dep.target) {
-                    console.log('Dep depend');
                     dep.depend();
                 }
                 return val;
