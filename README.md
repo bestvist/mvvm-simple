@@ -228,4 +228,5 @@ mvvm实现的主要流程：
 
 参考：
 > [剖析Vue原理&实现双向绑定MVVM](https://segmentfault.com/a/1190000006599500)
+
 > [mvvm廖雪峰](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/001475449022563a6591e6373324d1abd93e0e3fa04397f000)
